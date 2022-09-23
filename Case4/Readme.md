@@ -9,7 +9,7 @@
 ![ekran görüntüsü2](https://user-images.githubusercontent.com/88919177/191924268-6d8337e8-a7af-44a2-8ed7-527dfad9d1f6.png)
 
 Postman JSON link
-https://www.getpostman.com/collections/68e9be4cf4c72d1b9b42
+https://www.getpostman.com/collections/57d2263b2d87b9f5258e
 
 </br>
 
